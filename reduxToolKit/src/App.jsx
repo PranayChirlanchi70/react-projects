@@ -18,3 +18,7 @@ function App() {
 }
 
 export default App
+
+// functinallty sould go to reducers
+// redux-toolkit we can define store easyly
+// we first create store we can take nessary things from store
